@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing my Bachelor's Degree in Computer Application from Tribhuvan University, Nepal.<br>👯 I’m looking to collaborate on projects relating to AI/ML with python.<br>🤝 I’m currently employed at NextAI, Kamaladi as an Trainee.<br>⚡ Fun fact : Many people consider backpropagation to be the most important code ever written due to its effect on improving the performance of neural networks.
+🔭 I’m currently pursuing my Bachelor's Degree in Computer Application from Tribhuvan University, Nepal.<br>👯 I’m looking to collaborate on projects relating to AI/ML with python.<br>🤝 ⚡ Fun fact : Many people consider backpropagation to be the most important code ever written due to its effect on improving the performance of neural networks.
 
 
 ## 🌐 Socials:
