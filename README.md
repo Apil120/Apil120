@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Apil120&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Apil120&theme=dark&hide_border=false)<br/>
+![.](https://streak-stats.demolab.com/?user=Apil120)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apil120&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
